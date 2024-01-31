@@ -28,6 +28,10 @@ This is a Flutter app that interacts with a Flask server for social tracking. Th
 ```bash
 cd social-tracker-flutter
 ```
+### Install libraries
+```bash
+pip install -r requirements.txt
+```
 ### Install dependencies:
 ```bash
 flutter pub get
