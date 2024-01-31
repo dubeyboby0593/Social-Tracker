@@ -26,7 +26,7 @@ This is a Flutter app that interacts with a Flask server for social tracking. Th
    ```
 ### Navigate to the Flutter app directory:
 ```bash
-cd social-tracker-flutter
+cd social_tracker
 ```
 ### Install libraries
 ```bash
